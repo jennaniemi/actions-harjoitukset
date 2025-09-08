@@ -5,3 +5,5 @@ T03 test
 T04 main test
 
 T05 test
+
+T05 try-pr test
